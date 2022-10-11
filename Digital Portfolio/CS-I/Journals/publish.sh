@@ -1,0 +1,9 @@
+while true; do
+    read -p "Do you wish to publish your files? " yn
+    case $yn in
+	[Yy]* ) pushd ~/www; ./setPermissions.sh; popd; echo "Your files have been published"; break;;
+	[Nn]* ) echo "Your files have not been published"; exit;;
+	* ) echo "Please answer yes or no.";;
+	esac
+    done
+

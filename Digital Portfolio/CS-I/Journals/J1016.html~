@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>CS-I Journal J1016</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body>
+    <div class="navbar">
+      <a href="index.html">Home</a>
+      <a href="../../index.html">Portfolio</a>
+      <a href="../index.html">CS-I</a>
+      <div class="dropdown">
+	<button class="dropbtn">Journals
+	  <i class="fa fa-caret-down"></i>
+	</button>
+	<div class="dropdown-content">
+	  <a href="J1002.html">J1002</a>
+	  <a href="J1006.html">J1006</a>
+	  <a href="J1008.html">J1008</a>
+	  <a href="J1012.html">J1012</a>
+	  <a href="J1013.html">J1013</a>
+	  <a href="J1016.html">J1016</a>
+	</div>
+      </div>
+    </div>
+    <h3>Name: Srujan Sannidhi</h3>
+    <h3>Journal: J1016</h3>
+    <h3>Date: 6 October 2022</h3>
+    <br>
+    <br>
+    <h3>I received assistance from:</h3>
+    <h3>I assisted:</h3>
+    <hr>
+    <h1>Logic Gate Images</h1>
+    <a href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKDEpABZjCRdOQGPAP5QQKagjYdCGCd15leCsRNosAMlx7i8ePpAEo9YiADMAhgBsAznWqRN23tjQGRbquet2HT2RIIYBLYhPpBamKWtvZIjgDugsLuIAFceFSOAB4UbihuxJAQ+dhc6XwMAJIAdgAOAK4ALgA6NgCCAHIAIq0A4haNdCw5uF4YApwk4FhlKAIAygBO9QBWFtWt8+vVAJYAJgAWO8MGVGj6nHLizLMCAPIAxo0A9gBGdIutxAA0rWj5LCAA"><img width="400px" height="auto" src="3InputANDGate.png"></img></a>
+    <a href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKABkLCqU88QAWbChA8+VCADMAhgBsAznWqQWASQoZCI3iEIZhoqFGhIELAO6du2hBq1iWYBMIyR+IbIT55imj2JGGphwubth4boLCYW5UVNLyikjKFrr62iF2UOYgGQYZ2E5ZAB4U-Pr85FhuKJQCAnwqALYADjIAngA6cgDiUgAudCwlZRBgLhTE4jh1KG4AygBOAK4AVlIAdl1zG+sAlgAmABa7QwIo+nAT1ZDYM24A8gDGfQD2AEZ0C13EADRdaOcWEA"><img width="400px" height="auto" src="IMPLYGate.png.png"></img></a>
+    <a href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKABkKwUQU88Rs2Qjz5RwIAGYBDADYBnOtUjtO3bGgFCBGqhGnzFSZQHcKGYetpdtVE2eG9+Ca46gswz+wMgAWEDgtfMW5ad08MPD9cP2Jebz8qbiQEFlMA+P9IkX47dOjMqJ0WAFkQWP58sDgKoMToFIAPCmI-FHUQPBdsJD8ffgBBADkAEQAdOQBxKQAXOhYmwSQwQiSg5Z6ePwBlACcAVwArKQA7ca2T44BLABMAC0v5zSXYmnIwYg2UPwB5AGNpgD2ACM6DtxsQADTjNAoFAsIA"><img width="400px" src="ANDGate.png"></img></a>
+    <a href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKDAQgBZO8QVOqGNHwFQ+YhGw4huvbHk4ghVeYqopqkgDIy4IlZEX8qVCADMAhgBsAznWqQWOgSoUhci1WKqXb9pI4A7jI8fPy66qJBIbwoCIQR+lAswbLuhLwu7m7RaVlZXtHK2YoYGe7YCUXCxkrlHsnsEHhgCdjCxIQqwuqaKXVyhiAtbUNF9ZXDrRVVLAAeIIRgvK3ESp3gQjIyvADyAEoAOjYA5hYALnTz7pAJYNhInBhI95kiIADKAE4ArgBWFgAdscPkDAQBLAAmAAtwddcHdCIonitCOQjIpdgBjc4AewARnQvsdiAAaY5oFAoFhAA"><img src="ORGate.png" width="400px"></img></a>
+    <a href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKABkKAWTkXH7BCl6QeVKgDMAhgBsAznWqQWYBBEKcqfEHjCFhokEKQIWAdy78RIdVRR48UMxf3WNvNI4Cy23S7J6tW2gTAA9rAUM3PE5sSNieTgcAOQB5ABUAHVkAc0kAFzoWMIE9NCMUJDQkHhQeAGUAJwBXACtJADssuo72gEsAEwALXqLeBFLsHkEHFGxyGp4UgGM8gHsAIzoGrOIAGiyylBYgA"><img src="NOTGate.png" width="400px"></img></a>
+    <a href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKABkQ88qAWHvEIR69+UcCABmAQwA2AZzrVI7TtwrEUg4es1Uq0+YqTKwCCMUK0UAsGisCqmpAhamIzbIRA8wXsMIEfL0cxFzdwME9BBD8eFB5o4JAnClczcEoEhGtwDD4KHJDnFgB3VREBC1pbKFLynRAqinzlMq4KiKjhPTrbOAKbSK8ebF1euwHOryEeso9pjE12htbwOITCGIzILJbegO9fbaya5QAPTuwQUZtsBATsbAgE0QANAHkAJQAdOQBxKQAFzoLAuWE0T3MPmu-m8yQSAGUAE4AVwAVlIAHa-BFYzEASwAJgALfGgkBYKjYaHEOLXfIJeIgd4AY0BAHsAEZ0JG-YgAGl+aBQKBYQA"><img width="400px" src="XORGate.png"></a>
+    <a href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKDAQg0gBYRs9exQlX68qKagjYcQQ2mAkKwhCgqggJtaZx4hC3KnL0H1EpFPYQw2FHlWKEA+6cksAMnoQrRIbnhFOVFQAZgCGADYAznTUkO6eKvpUflRJ6iER0bEsAO4JfE5cvNiEdnF5hF4FvEW+cFC5+Wm1hChijZWJJqV2nQ15Rgi2ssLGQY1GPkbcQv3gKMrO1sMzKuXzixyKNnZDZSwAsuCOvFvghPrO4tBSAB6ypHzYSAoo2E92vH4gAHIA8gAlAA6kQA4qEAC50Fj3Eh2TDkPCEci2ZIaXgAZQATgBXABWoQAdiCMUTCQBLAAmAAtyTC9I9cCo8BgILhiL50SA-gBjCEAewARnQsSDiAAaEFoFAoFhAA"><img width="400px" src="NORGatepng.png"></a>
+
+
+  </body>
+</html>

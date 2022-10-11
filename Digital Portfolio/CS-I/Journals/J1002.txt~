@@ -1,0 +1,62 @@
+Name: Srujan Sannidhi
+Journal: J1002
+Date: 17-August-2022
+
+
+I recieved assistance from: No one
+
+I assisted: Abhi Reddy
+1.1:
+One of the other services I use is Minecraft
+Another of the services that I use is Google
+
+2.1:
+I think that the ability to have 2 different users makes it easier for multiple users to have 2 different instances of a service personalized to their own liking.
+
+3.1
+The ~ represents your home directory or root
+
+4.1
+The prompt now shows that we are in a folder inside of the root drectory "Merlin"
+
+5.1
+Pressing the up arrow puts your most recent entered command
+5.2
+Pressing the down arrow puts your least recent entered command
+
+6.1
+The text did not display because the echo command wrote the "Hello, world!" text to the out.txt file instead
+
+7.1
+The ls command shows everything in the directory, but tree shows everything in the directory, and everything in the child directories after that
+7.2
+Ls is only used for seeing what you have in a certain directory, but tree is used to see the hierarchy of files starting at the certain directory
+
+8.1
+Sleep defines a timeout
+8.2
+When entering a sleep timeout, no actions can be made except to cancel it using ctrl + c
+
+9.1
+The sleep function runs in the background when putting & after the sleep command
+9.2
+Makes it so that it can run while entering a command or running it to the point where it cannot affect you.
+9.3
+The numbers represent the order of the proccesses
+
+10.1
+The jobs commands shows what proccesses are running or done
+10.2
+This shows what order that the proccesses are in, what they are and if they are done or not
+
+What did I learn? What is the "big idea"?
+I learned some basic commands on how to do certain functions in tabby such as making files, directories and such as well as deleting them. I was able to figure how to run jobs and make files and run processes.
+
+What challenges did I encounter?
+No challenges today.
+
+How could this experience be improved?
+Get more fluent in learning tabby commands so that I do not have to keep looking at a document.
+
+Free Reflection: How has what I've learned affected my thinking?
+It has enabled me to learn that terminals are actually way simpler than I thought and I can do simple tasks now in a linux ssh terminal.

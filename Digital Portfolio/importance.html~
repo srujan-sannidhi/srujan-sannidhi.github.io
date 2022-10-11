@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="CS-I/Journals/styles.css"> 
+    <title>Digital Portolio</title>
+  </head>
+  <body>
+    <div class="navbar">
+      <a href="index.html">Home</a>
+      <a href="importance.html">Why this is Important</a>
+      <a href="CS-I/index.html">CS-I</a>
+      <div class="dropdown">
+	<button class="dropbtn">CS-I Journals
+	  <i class="fa fa-caret-down"></i>
+	</button>
+	<div class="dropdown-content">
+	  <a href="CS-I/Journals/J1002.html">J1002</a>
+	  <a href="CS-I/Journals/J1006.html">J1006</a>
+	  <a href="CS-I/Journals/J1012.html">J1012</a>
+	  <a href="CS-I/Journals/J1008.html">J1008</a>
+	  <a href="CS-I/Journals/J1013.html">J1013</a>
+	</div>
+      </div>
+    </div>
+    <h1>Why the portfolio is important to me</h1>
+      <h3>This digital portfolio is important to me because it allows me to record my experiences and projects here in CS-I, II, and III</h3>
+
+      <h3>This is going to help me and others track my progress as I move on throughout this course to make more programs and webpages.</h3>
+
+      <h3>The journals that I create in this digital portfolio will help me remember what I learned and will help me understand anything I learned before.</h3>
+
+      <h3>The Digital Portfolio is also documentation of my work and can help pave the way to a career of my choice one day.</h3>
+
+      <h3>Also copyright infrigment, you know who you are.</h3>
+  </body>
+</html>

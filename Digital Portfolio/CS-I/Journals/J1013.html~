@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>CS-I Journal J1013</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body>
+    <div class="navbar">
+      <a href="index.html">Home</a>
+      <a href="../../index.html">Portfolio</a>
+      <a href="../index.html">CS-I</a>
+      <div class="dropdown">
+	<button class="dropbtn">Journals
+	  <i class="fa fa-caret-down"></i>
+	</button>
+	<div class="dropdown-content">
+	  <a href="J1002.html">J1002</a>
+	  <a href="J1006.html">J1006</a>
+	  <a href="J1012.html">J1012</a>
+	  <a href="J1008.html">J1008</a>
+	  <a href="J1013.html">J1013</a>
+	</div>
+      </div>
+    </div>
+    <h3>Name: Srujan Sannidhi</h3>
+    <h3>Journal: J1013</h3>
+    <h3>Date: 12-Sep-2022</h3>
+    <br>
+    <br>
+    <h3>I received assistance from:</h3>
+    <h3>I assisted:</h3>
+    <hr>
+    <h1>Questions</h1>
+    <h2>1.1: Why is one of the symbols used for exclusive disjunction (underlined equal sign crossed out)?</h2>
+    <p>The equal operation is only true if both inputs are true, and they are same value represented by A (underlined equal sign) B. The reason that the XOR operation uses that same symbol, but crossed out, is because XOR can be true if one value is true, but both are false, meaning that both values cannot be true and they cannot be the same value, thus yielding the equal operation's sign, but crossed out.</p>
+    <h2>2.1: Why is the formula for determining the number of rows in a truth table related only to the number of inputs, and why is the formula 2^n?</h2>
+    <p>The reason the formula for the number of rows is related only to the number of inputs is because there are 2 different possible inputs, True or False.</p>
+    <hr>
+    <br>
+    <br>
+    <h2>What did I learn? What is the "big idea"?</h2>
+    <p>I learned some basic boolean algebra operations, how to make a truth table and how to express truth tables in canonical representation</p>
+    <h2>What challenges did I encounter?</h2>
+    <p>Trying to understand how the truth tables use the formula 2^n and the formal representation with one output when put in canonical representation</p>
+    <h2>How could this experience be improved?</h2>
+    <p>I could try to better understand how some of the boolean algebra operations work.</p>
+    <h2>Free Reflection: How has what I've learned affected my thinking?</h2>
+    <p>It has allowed me to better understand true/false values and how they can be achieved</p>
+
+
+
+  </body>
+</html>

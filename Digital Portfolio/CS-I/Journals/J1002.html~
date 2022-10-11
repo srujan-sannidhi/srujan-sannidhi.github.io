@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>J1002 by Srujan Sannidhi</title>
+    <link href="styles.css" rel="stylesheet">
+  <head>
+  <body>
+    <h3>Name: Srujan Sannidhi</h3>
+    <h3>Journal: J1002</h3>
+    <h3>Date: 23-Aug-2002</h3>
+    <br>
+    <br>
+    <h3>I recieved assistance from: No one</h3>
+    <h3>I assisted: Abhi Reddy</h3>
+    <h1> Questions </h1>
+    <h2>1.1</h2>
+    <p>One of the other services I use is Minecraft</p>
+    <p>Another one of the services I use is Google</p>
+    <h2>2.1 </h2>
+    <p>I think that the ability to have 2 different users makes it easier for multiple users to have 2 different instances of a service personalized to their own liking.</p>
+    <h2>3.1</h2>
+    <p>The ~ represents your home directory</p>
+    <h2>4.1</h2>
+    <p>The prompt now shows that we are in a folder inside of the root drectory "Merlin"</p>
+    <h2>5.1</h2>
+    <p>Pressing the up arrow puts your most recent entered command</p>
+    <h2>5.2</h2>
+    <p>Pressing the down arrow puts your least recent entered command</p>
+    <h2>6.1</h2>
+    <p>The text did not display because the echo command wrote the "Hello, world!" text to the out.txt file instead</p>
+    <h2>7.1</h2>
+    <p>The ls command shows everything in the directory, but tree shows everything in the directory, and everything in the child directories after that</p>
+    <h2>7.2</h2>
+    <p>Ls is only used for seeing what you have in a certain directory, but tree is used to see the hierarchy of files starting at the certain directory</p>
+    <h2>8.1</h2>
+    <p>Sleep defines a timeout</p>
+    <h2>8.2</h2>
+    <p>When entering a sleep timeout, no actions can be made except to cancel it using ctrl + c</p>
+    <h2>8.2</h2>
+    <p>When entering a sleep timeout, no actions can be made except to cancel it using ctrl + c</p>
+    <h2>9.1</h2>
+    <p>The sleep function runs in the background when putting & after the sleep command</p>
+    <h2>9.2</h2>
+    <p>Makes it so that it can run while entering a command or running it to the point where it cannot affect you.</p>
+    <h2>9.3</h2>
+    <p>The numbers represnt the orders of the processes</p>
+    <h2>10.1</h2>
+    <p>The jobs command shows what processes are being run or have alreasy ran</p>
+    <h2>10.2</h2>
+    <p>This shows what order that the proccesses are in, what they are and if they are done or not</p>
+    <! Reflection Questions !>
+    <br>
+    <br>
+    <h2>What did I learn? What is the "big idea"?</h2>
+    <p>I learned some basic commands on how to do certain functions in tabby such as making files, directories and such as well as deleting them. I was able to figure how to run jobs and make files and run processes.
+    </p>
+    <h2>What challenges did I encounter?</h2>
+    <p>No challenges today</p>
+    <h2>How could this experience be improved?</h2>
+    <p>Get more fluent in learning tabby commands so that I do not have to keep looking at a document.</p>
+    <h2>Free Reflection: How has what I've learned affected my thinking</h2>
+    <p>It has enabled me to learn that terminals are actually way simpler than I thought and I can do simple tasks now in a linux ssh terminal.</p>
+    
+    
+    
+  </body>
+</html>
+ 

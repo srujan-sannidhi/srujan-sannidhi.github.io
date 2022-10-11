@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Advanced Computer Science I</title>
+    <link rel="stylesheet" href="Journals/styles.css">
+  </head>
+
+  <body>
+    <h1>Advanced Computer Science I</h1>
+
+    <h2>Journals</h2>
+    <ul>
+      <li><a href="Journals/index.html">Journals Homepage</a></li>
+    </ul>
+  </body>
+  </html>
