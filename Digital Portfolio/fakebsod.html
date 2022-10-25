@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html onclick = '//document.body.requestFullscreen();'>
+  <head>
+    <style>
+      body
+      {
+          background-color:#0900ff;
+      }
+    </style>
+  </head>
+  <body>
+    <pre style='color:white;font-size:25px;user-select:none;' id='error'></pre>
+    <script>
+      let err = "DRIVER_IRQL_NOT_LESS_THAN_OR_EQUAL_TO";
+      let code = "*** STOP 0x000000D1";
+      strand = 'A fatal error has occured.\n\n\nA potentially harmful error has been detected and the program has been terminated.\n\n' + err + '\n\nThe computer is in the process of restarting. Please do not shut off your computer.\n\nTechnical information.\n\n\n'
+    + code.toString();
+      document.getElementById('error').textContent = strand;
+      window.setTimeout(()=>{
+          let progress = 0;
+          let text = document.getElementById('error').textContent;
+          let restart = window.setInterval(()=>{
+              if(progress === 100){
+                  window.setTimeout(()=>{
+                      clearInterval(restart);
+                      document.getElementById('error').remove();
+                      document.body.style.backgroundColor = 'white';
+                      window.setTimeout(()=>{
+                          let style = document.createElement('style');
+                          style.textContent = 'html{cursor:none !important;}';
+                          style.setAttribute('id','style1');
+                          document.body.appendChild(style);
+                          document.body.style.backgroundColor = 'black';
+                          window.setTimeout(()=>{
+                              let pre = document.createElement('pre');
+                              pre.textContent = 'Booting up...';
+                              pre.setAttribute('style','color:white;font-size:20px;user-select:none;');
+                              pre.setAttribute('id','booting');
+                              document.body.appendChild(pre);
+                              let iterator = 1;
+                              let iterator2 = 0;
+                              let limit = 90 + Math.floor(Math.random() * 50);
+                              let animation = window.setInterval(()=>{
+                                  if(iterator2 === limit){
+                                      clearInterval(animation);
+                                      document.getElementById('booting').textContent = 'Done!';
+                                      window.setTimeout(()=>{
+                                          document.getElementById('booting').remove();
+                                          document.getElementById('style1').textContent = 'html{cursor:default !important;}';
+                                          document.body.style.backgroundColor = 'white';
+                                          let fooled = document.createElement('div');
+                                          fooled.innerHTML = '<pre style="font-size:30px;user-select:none;">GET FOOLED HAHAHAHAHA!!!</pre>';
+					  fooled.setAttribute('style','text-align:center;');
+					  document.body.appendChild(fooled);
+
+				      },2000);
+				  }
+				  else{
+				      switch(iterator){
+				      case 1:
+				          document.getElementById('booting').textContent = 'Booting up... |';
+					  iterator++;
+					  break;
+				      case 2:
+				          document.getElementById('booting').textContent = 'Booting up... /';
+					  iterator++;
+					  break;
+				      case 3:
+				          document.getElementById('booting').textContent = 'Booting up... -';
+					  iterator++;
+					  break;
+				      case 4:
+				          document.getElementById('booting').textContent = 'Booting up... \\';
+					  iterator = 1;
+					  break;
+				      }
+				      iterator2++;
+				  }
+			      },100);
+			  },4800);
+		      },3500);
+		  },1900);
+	      }
+	      else{
+	          let random = Math.floor(Math.random() * 100);
+		  if(random > 97){
+		      progress++;
+		      document.getElementById('error').textContent = text + '\nRestarting: ' + progress + '% done.';
+		  }
+	      }
+	  },10);
+      },500);
+      </script>
+  </body>
+  </html>

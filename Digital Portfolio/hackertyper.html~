@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>I'm a hacker</title>
+    <link href="index.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body style="background-color:black; font-family:'Consolas'; color: #24fc03;" onkeydown="start(); char = event.keyCode;" onkeyup="end();">
+    <script src="index.js"></script>
+    <div class="type" onkeydown="start();" onkeyup="end();"><span id='blinker' style='visibility:visible'>█</span></div>
+  </body>
+</html>
